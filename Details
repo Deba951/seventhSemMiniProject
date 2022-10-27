@@ -1,0 +1,7 @@
+E-Commerce (Project change)
+
+
+Flutter --> Front end (Native)
+Database for products list --> SQL
+Socket.io --> Linkage
+ML for --> Product recomendation --> 1. Based on Price used, 2. Based on Browse History
