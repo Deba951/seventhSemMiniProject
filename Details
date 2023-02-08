@@ -1,3 +1,4 @@
+
 E-Commerce (Project change)
 
 
@@ -5,10 +6,3 @@ Flutter --> Front end (Native)
 Database for products list --> SQL
 Socket.io --> Linkage
 ML for --> Product recomendation --> 1. Based on Price used, 2. Based on Browse History, 3. Gift Prediction
-
-
-
-1 —> Supriyo, Tunir focus	—> Only Flutter
-2 —> Swathik —> ML focus, flutter
-3 —> Bar —> SQL focus, flutter
-4 —> Myself —> AI chatBox
