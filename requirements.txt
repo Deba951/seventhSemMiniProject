@@ -1,0 +1,13 @@
+seaborn
+streamlit
+numpy
+matplotlib
+pandas
+scikit_learn
+
+
+
+streamlit run main.py
+
+
+# from Layouts.report import generate_report
