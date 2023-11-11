@@ -203,6 +203,14 @@ from web_functions import load_data
 # Import pages
 from Layouts import home, data, predict, visualise, about, report
 
+# Configure the app
+st.set_page_config(
+    page_title = 'Diabetes?',
+    page_icon = '🩺',
+    layout = 'wide',
+    initial_sidebar_state = 'auto'
+)
+
 # Dictionary for pages
 Layouts = {
     "Home": home,
