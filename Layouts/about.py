@@ -31,19 +31,19 @@ def app():
     team_members = [
         {
             'name': 'Debarghya Chakravarty',
-            'description': 'Final Year Student at AOT',
+            'description': 'Being an Android developer, AI enthuciast, Competitive Coder and a problem solver, I am a passionate techie who is constantly Upskilling, Innovating and Exploring with Code',
             'linkedin': 'https://www.linkedin.com/in/debarghya-chakravarty-5a2563238/',
             'github': 'https://github.com/Deba951'
         },
         {
             'name': 'Raktim Bar',
-            'description': 'Final Year Student at AOT',
+            'description': 'I am a passionate engineer, currently diving deep into the world of computer science engineering, exploring algorithms, coding, and the limitless possibilities of technology.',
             'linkedin': 'https://www.linkedin.com/in/raktim-bar',
             'github': 'https://github.com/raktimbar100'
         },
         {
             'name': 'Supriyo Bose',
-            'description': 'Final Year Student at AOT',
+            'description': 'I am a full-stack software engineer and writer. I love programming, reading, writing and speaking. As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.',
             'linkedin': 'https://www.linkedin.com/in/supriyo-bose-116b8b203/',
             'github': 'https://github.com/bosesupriyo'
         },
