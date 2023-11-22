@@ -49,7 +49,7 @@ def app():
         },
         {
             'name': 'Swathik Majumder',
-            'description': 'Final Year Student at AOT',
+            'description': 'I am a Enthusiastic and skilled CSE engineer with a passion for software development and problem-solving. Expertise in Java, Python, and C++. Proven ability to design and develop. Seeking to utilize my skills in a challenging and rewarding environment.',
             'linkedin': 'https://www.linkedin.com/in/swathik-majumder-038080210/',
             'github': 'https://github.com/Swathik2000'
         },
