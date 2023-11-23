@@ -4,11 +4,6 @@ import streamlit as st
 
 def app(df):
 
-    # my_bar = st.progress(0)
-    # for percent_complete in range(100):
-    #     time.sleep(0.05)  # Simulated task
-    #     my_bar.progress(percent_complete + 1)
-
     with st.spinner():
         # Add content that requires loading
         time.sleep(2)  # Simulated loading time
