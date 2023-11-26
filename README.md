@@ -9,11 +9,14 @@
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source" />
     <img src="https://img.shields.io/github/languages/top/deba951/Final-Year-Project?color=red" alt="language" />
     <img src="https://img.shields.io/github/languages/code-size/deba951/Final-Year-Project?color=informational" alt="code size" />
-    <img src="https://visitor-badge.glitch.me/badge?page_id=deba951.Final-Year-Project&left_color=grey&right_color=blueviolet" alt="visitors count" />
+    <img src="https://komarev.com/ghpvc/?username=Deba951&color=blue&tyle=plastic" alt="Views" />
     <a href="https://github.com/deba951/Final-Year-Project/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/deba951/Final-Year-Project.svg?color=yellow" alt="license" />
     </a>
   </p>
+
+
+  
   
   <!--links-->
   <h4>
