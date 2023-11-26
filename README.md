@@ -1,6 +1,10 @@
 # Final-Year-Project
 Final Year Project 2024
 
+![Al-Resume-Analyzer](https://github.com/Deba951/Final-Year-Project/assets/83878346/b0c44121-d24d-43f8-8b3d-9f588d11e2d4)
+
+
+
 ![Hello](https://github.com/Deba951/Final-Year-Project/assets/83878346/8c9d0155-d69d-4fd1-ba5a-1c194cd85693)
 ![doctorSymbol](https://github.com/Deba951/Final-Year-Project/assets/83878346/3fd6dc54-0281-408d-851c-e15a697dacb2)
 ![Buffer1](https://github.com/Deba951/Final-Year-Project/assets/83878346/188df9d1-21d2-40a4-89a3-f0c24f2ffc85)
