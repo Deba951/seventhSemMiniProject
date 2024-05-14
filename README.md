@@ -112,16 +112,18 @@
 - **Security**
 - **Usability**
 
+  <img width="1568" alt="BlockDiagram" src="https://github.com/Deba951/Final-Year-Project/assets/83878346/4fc23e1f-abae-4e2a-bd58-0898fda87b79">
+
 ## **Design and Implementation Constraints**
 **Challenges include sourcing diverse, high-quality health data, complying with privacy regulations, ensuring model interpretability, scalability concerns, and optimal algorithm selection within computational limitations.**
 
 ## **Assumptions and Dependencies**
-**Assumptions include availability of diverse and reliable health data, adherence to regulatory standards, and consistent access to computational resources. Dependencies lie in accurate data preprocessing, algorithm performance, and seamless integration with healthcare systems.**
+**Assumptions include the availability of diverse and reliable health data, adherence to regulatory standards, and consistent access to computational resources. Dependencies lie in inaccurate data preprocessing, algorithm performance, and seamless integration with healthcare systems.**
 
 ## **Tools & Technologies**
 ### **Development Tools:**
 - **Visual Studio Code (VS Code):** A free and open-source code editor developed by Microsoft.
-- **Google Colab:** A cloud-based Jupyter notebook environment for writing and executing Python code.
+- **Google Colab:** A cloud-based Jupyter Notebook environment for writing and executing Python code.
 - **Anaconda:** A popular Python distribution for data science and machine learning.
 - **Git:** A distributed version control system for tracking changes in source code.
 - **Git Bash:** A command-line environment for working with Git on Windows.
@@ -134,27 +136,5 @@
 - **Shell Script:** A scripting language for automating tasks in Unix-based systems.
 
 **Thank you for visiting my repository! Your interest and support are greatly appreciated.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="1568" alt="BlockDiagram" src="https://github.com/Deba951/Final-Year-Project/assets/83878346/4fc23e1f-abae-4e2a-bd58-0898fda87b79">
 
 ![images](https://github.com/Deba951/Final-Year-Project/assets/83878346/add3d928-f615-430b-b14d-bce6ca8f0456)
